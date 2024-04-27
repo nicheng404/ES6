@@ -22,9 +22,12 @@
         "no-inner-declarations": "off",
         "no-constant-condition": "off",
         "no-console": "off",
-        "linebreak-style": [
-            "error",
-            "windows"
-        ]
+        // "linebreak-style": [
+        //     "error",
+        //     "unix"
+        // ]
+        
+        "linebreak-style": 0
+          
     }
 }
